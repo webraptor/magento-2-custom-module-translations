@@ -1,0 +1,284 @@
+Privacy Settings,Setari de confidentialitate
+Are you sure you want to do this?,Esti sigur ca vrei sa faci asta?
+Delete Consent,sterge consimtamantul
+Clone,Cloneaza
+Delete,sterge
+Save and Continue Edit,Salveaza si continua editarea
+Save,Salveaza
+Send,Trimite
+Download personal data,Descarca datele personale
+Here you can download a copy of your personal data which we store for your account in CSV format.,Aici poti descarca o copie a datelor personale pe care le stocham pentru contul dvs. In format CSV.
+Download,Descarca
+Anonymise personal data,Anonimizeaza datele personale
+"Anonymising your personal data means that it will be replaced with non-personal anonymous information and before that you will get your new login to your e-mail address (your password will stay the same). After this process, your e-mail address and all other personal data will be removed from the website.",Anonimizarea datelor cu caracter personal cu informatii non-personale anonime si schimbarea adresei de e-mail (parola va ramane la fel). Dupa acest proces adresa ta de e-mail si toate celelalte date personale vor fi eliminate de pe site-ul web.
+I agree and I want to proceed,Sunt de acord si vreau sa continui
+Proceed,Continua
+Delete account,sterge cont
+"Request to remove your account, together with all your personal data, will be processed by our staff.<br>Deleting your account will remove all the purchase history, discounts, orders, invoices and all other information that might be related to your account or your purchases.<br>All your orders and similar information will be lost.<br>You will not be able to restore access to your account after we approve your removal request.",Cererea pentru a elimina contul, Impreuna cu toate datele personale vor fi prelucrate de catre personalul nostru. <br> stergerea contului tau va elimina toate istoria de cumparare, reduceri, comenzi, facturile si toate celelalte informatii care ar putea fi legate de contul tau sau achizitiile tale. <Br > Toate comenzile si informatii similare vor fi pierdute. <br> Nu vei mai putea restabili accesul la cont dupa ce solicitarea de eliminare este aprobata.
+I understand and I want to delete my account,Inteleg si vreau sa Imi sterg contul
+Submit request,Trimite cererea
+Action Log,Jurnal
+Action logs was successfully removed.,Jurnalele de actiune a fost eliminat cu succes.
+Consent Log,Consimtamantul pentru jurnale
+Consent logs was successfully removed.,Jurnalele de consimtamant au fost eliminate cu succes.
+Customers Consents Email Queue,Lista consimtamanturi
+You have successfully deleted the consent,Ai sters cu succes acordul
+We can't delete item right now. Please review the log and try again.,Nu putem sterge un element chiar acum. Examinati jurnalul si Incercati din nou.
+Edit Consent,Editeaza consimtamantul
+This consent no longer exists...,Acest consimtamant nu mai exista ...
+New Consent,Consimtamant nou
+Consent Checkboxes,Checkbox-uri consimtamant
+An error has occurred,A avut loc o eroare
+You saved the consent.,Ai salvat consimtamantul.
+Consent with code %1 already exists.,Consimtamantul cu codul %1 exista deja.
+Cookie Policy Consents,Politica Cookie
+This policy no longer exists.,Aceasta politica nu mai exista.
+You deleted the policy.,Ai sters politica.
+New Privacy Policy,Politica de confidentialitate noua
+Edit Privacy Policy %1,Editeaza politica de confidentialitate %1
+Privacy Policy,Politica de confidentialitate
+Please correct the data sent.,Va rugam sa corectati datele trimise.
+Something went wrong while saving the question.,Ceva a mers prost la salvarea Intrebarii.
+%1 policies(s) has been successfully deleted,%1 politica/politici a(u) fost sters(e) cu succes
+Privacy policy with the same version already exists.,Politica de confidentialitate cu aceeasi versiune exista deja.
+You saved the item.,Ai salvat elementul.
+%1 customer(s) has been successfully deleted,%1 client(i) a(u) fost sters(i) cu succes
+"%1 customer(s) has not been successfully deleted, because they have non-completed order(s)",%1 client(i) nu a(u) fost sters(i) cu succes, deoarece acestea au comenzi neIncheiate
+Delete Requests,Cereri stergere cont
+Deny Delete Requests,Respinge cereri stergere
+An error has occurred. Please check logs for more details,A avut loc o eroare. Va rugam sa verificati jurnalele pentru mai multe detalii
+%1 email(s) has been sent,%1 e-mail(uri) a(u) fost trimis(e)
+Customers With Consent,Clientii cu acordul semnat
+Customers were successfully added to email queue,Clientii au fost adaugati cu succes la lista
+Customers Without Consent,Clientii fara consimtamant
+Access denied.,Acces interzis.
+Wrong Password. Please recheck it.,Parola gresita. Va rugam sa verificati din nou.
+Your delete account request is awaiting for the review by the administrator.,Cererea ta de stergere se afla In asteptarea examinarii de catre administrator.
+"Thank you, your account delete request was recorded.",Va multumim! Cererea de stergere a contului tau a fost Inregistrata.
+We can not anonymize order,Nu putem anonimiza comanda
+"We can not anonymize your account right now, because you have non-completed order(s):%1",Nu putem sa anonimizam contul chiar acum, deoarece aveti comenzi neIncheiate: 1%
+"We can not anonymize your account right now, because you have active Gift Registry",Nu putem sa anonimizam contul chiar acum, deoarece aveti activ card cadou
+Anonymisation was successful,Anonimazarea a avut loc cu succes
+Thank you for your cooperation. Your consent was recorded.,Multumim. A fost Inregistrat consimtamantul.
+Something went wrong.,Ceva n-a mers bine.
+Unable to save actionLog with ID %1. Error: %2,Nu se poate salva actionLog cu ID %1. Eroare: %2
+Unable to save new actionLog. Error: %1, Nu se poate salva actionLog. Eroare: %1
+ActionLog with specified ID "%1" not found.,ActionLog cu ID-ul specificat "%1" nu a fost gasit.
+Unable to remove actionLog with ID %1. Error: %2,Nu se poate elimina actionLog cu ID-ul %1. Eroare: %2
+Unable to remove actionLog. Error: %1,Nu se poate elimina actionLog. Eroare: %1
+Delete Request Submitted,Cerere de stergere trimisa
+Delete Request Approved,Cerere de stergere aprobata
+Data Anonymised by Customer,Datele de Client anonime
+Automatic Delete,stergere automata
+Customer's Request,Solicitarea clientului
+Pending,In asteptare
+Success,Succes
+Fail,Esuat
+Yes (Recommended),Da (recomandat)
+No,Nu
+Consent with specified ID "%1" not found.,Consimtamantul cu ID-ul specificat „%1“ nu a fost gasit.
+Consent with consent code %1 not found,Consimtamantul cu codul de consimtamant %1 nu a fost gasit
+Unable to remove model without id,Nu se poate elimina modelul fara id
+"Unable to remove consent, message is %1",Nu se poate elimina consimtamant, mesajul este %1
+Unable to save consent with ID %1. Error: %2,Nu se poate salva acordul cu ID-ul %1. Eroare: %2
+Unable to save new consent. Error: %1,Nu se poate salva un nou consimtamant. Eroare: %1
+"Data consistency is broken.
+                    There is no entity by default store for a consent with ID %1","Consistenta datelor este stricata.
+Nu exista nici o entitate de pentru un acord cu ID-ul %1"
+Unable to save deleteRequest with ID %1. Error: %2,Nu se poate salva deleteRequest cu ID %1. Eroare: %2
+Unable to save new deleteRequest. Error: %1,Nu se poate salva deleteRequest. Eroare: %1
+DeleteRequest with specified ID "%1" not found.,DeleteRequest cu ID-ul specificat "%1" nu a fost gasit.
+Unable to remove deleteRequest with ID %1. Error: %2,Nu se poate elimina deleteRequest cu ID-ul %1. Eroare: %2
+Unable to remove deleteRequest. Error: %1,Nu se poate elimina deleteRequest. Eroare: %1
+Disabled,Dezactivat
+Enabled,Activat
+Policy is active,Politica este activa
+Unable to save policy with ID %1. Error: %2,Nu se poate salva politica cu ID-ul %1. Eroare: %2
+Unable to save new policy. Error: %1,Nu se poate salva noua politica. Eroare: %1
+Policy with specified ID "%1" not found.,Politica cu ID-ul specificat „%1“ nu a fost gasit.
+Unable to remove policy with ID %1. Error: %2,Nu se poate elimina politica cu ID %1. Eroare: %2
+Unable to remove policy. Error: %1,Imposibil de eliminat politica. Eroare: %1
+Unable to save consentQueue with ID %1. Error: %2,Nu se poate salva consentQueue cu ID %1. Eroare: %2
+Unable to save new consentQueue. Error: %1,Nu se poate salva noi consentQueue. Eroare: %1
+ConsentQueue with specified ID "%1" not found.,ConsentQueue cu ID-ul specificat "%1" nu a fost gasit.
+Unable to remove consentQueue with ID %1. Error: %2,Nu se poate elimina consentQueue cu ID-ul %1. Eroare: %2
+Unable to remove consentQueue. Error: %1,Nu se poate elimina consentQueue. Eroare: %1
+Unable to save withConsent with ID %1. Error: %2,Nu se poate salva withConsent cu ID %1. Eroare: %2
+Unable to save new withConsent. Error: %1,Nu se poate salva noi withConsent. Eroare: %1
+WithConsent with specified ID "%1" not found.,WithConsent cu ID-ul specificat "%1" nu a fost gasit.
+Unable to remove withConsent with ID %1. Error: %2,Nu se poate elimina withConsent cu ID-ul %1. Eroare: %2
+Unable to remove withConsent. Error: %1,Nu se poate elimina withConsent. Eroare: %1
+GDPR Privacy policy,Politica de confidentialitate GDPR
+CMS Page,Pagina CMS
+All Countries,Toate tarile
+EEA Countries,Tarile SEE
+Specified Countries,Tarile mentionate
+Accept,Accept
+Decline,Declin
+Privacy Checkbox,Checkbox confidentialitate
+Current Password,Parola actuala
+I have read and accept,Am citit si accept
+GDPR,GDPR
+General,General
+Order Statuses,Starea comenzilor
+Email Notifications,Notificari prin email
+Anonymization Notifications,Notificari anonimizare
+Email Sender,E-mail Expeditor
+Email Reply To,Email Raspuns Catre
+Email Template,Sablon e-mail
+Deletion Notifications,Notificari de stergere
+Send Email To,Trimiteti e-mail
+Customer’s Approval Notification,Notificare privind acceptarea catre client
+Customer’s Deny Notification,Notificarea clientului privind respingerea
+Are you sure?,Esti sigur?
+Customer ID,Numar de Inregistrare client
+Customer Name,Numele clientului
+IP Address,Adresa IP
+Date,Data
+Action,Actiune
+Remote IP Address,Adresa IP
+Status,Stare
+Back,Inapoi
+Name,Nume
+Privacy Settings,Setari de confidentialitate
+Are you sure you want to do this?,Esti sigur ca vrei sa faci asta?
+Delete Consent,sterge consimtamantul
+Clone,Cloneaza
+Delete,sterge
+Save and Continue Edit,Salveaza si continua editarea
+Save,Salveaza
+Send,Trimite
+Download personal data,Descarca datele personale
+Here you can download a copy of your personal data which we store for your account in CSV format.,Aici poti descarca o copie a datelor personale pe care le stocham pentru contul dvs. In format CSV.
+Download,Descarca
+Anonymise personal data,Anonimizeaza datele personale
+"Anonymising your personal data means that it will be replaced with non-personal anonymous information and before that you will get your new login to your e-mail address (your password will stay the same). After this process, your e-mail address and all other personal data will be removed from the website.",Anonimizarea datelor cu caracter personal cu informatii non-personale anonime si schimbarea adresei de e-mail (parola va ramane la fel). Dupa acest proces adresa ta de e-mail si toate celelalte date personale vor fi eliminate de pe site-ul web.
+I agree and I want to proceed,Sunt de acord si vreau sa continui
+Proceed,Continua
+Delete account,sterge cont
+"Request to remove your account, together with all your personal data, will be processed by our staff.<br>Deleting your account will remove all the purchase history, discounts, orders, invoices and all other information that might be related to your account or your purchases.<br>All your orders and similar information will be lost.<br>You will not be able to restore access to your account after we approve your removal request.",Cererea pentru a elimina contul, Impreuna cu toate datele personale vor fi prelucrate de catre personalul nostru. <br> stergerea contului tau va elimina toate istoria de cumparare, reduceri, comenzi, facturile si toate celelalte informatii care ar putea fi legate de contul tau sau achizitiile tale. <Br > Toate comenzile si informatii similare vor fi pierdute. <br> Nu vei mai putea restabili accesul la cont dupa ce solicitarea de eliminare este aprobata.
+I understand and I want to delete my account,Inteleg si vreau sa Imi sterg contul
+Submit request,Trimite cererea
+Action Log,Jurnal
+Action logs was successfully removed.,Jurnalele de actiune a fost eliminat cu succes.
+Consent Log,Consimtamantul pentru jurnale
+Consent logs was successfully removed.,Jurnalele de consimtamant au fost eliminate cu succes.
+Customers Consents Email Queue,Lista consimtamanturi
+You have successfully deleted the consent,Ai sters cu succes acordul
+We can't delete item right now. Please review the log and try again.,Nu putem sterge un element chiar acum. Examinati jurnalul si Incercati din nou.
+Edit Consent,Editeaza consimtamantul
+This consent no longer exists...,Acest consimtamant nu mai exista ...
+New Consent,Consimtamant nou
+Consent Checkboxes,Checkbox-uri consimtamant
+An error has occurred,A avut loc o eroare
+You saved the consent.,Ai salvat consimtamantul.
+Consent with code %1 already exists.,Consimtamantul cu codul %1 exista deja.
+Cookie Policy Consents,Politica Cookie
+This policy no longer exists.,Aceasta politica nu mai exista.
+You deleted the policy.,Ai sters politica.
+New Privacy Policy,Politica de confidentialitate noua
+Edit Privacy Policy %1,Editeaza politica de confidentialitate %1
+Privacy Policy,Politica de confidentialitate
+Please correct the data sent.,Va rugam sa corectati datele trimise.
+Something went wrong while saving the question.,Ceva a mers prost la salvarea Intrebarii.
+%1 policies(s) has been successfully deleted,%1 politica/politici a(u) fost sters(e) cu succes
+Privacy policy with the same version already exists.,Politica de confidentialitate cu aceeasi versiune exista deja.
+You saved the item.,Ai salvat elementul.
+%1 customer(s) has been successfully deleted,%1 client(i) a(u) fost sters(i) cu succes
+"%1 customer(s) has not been successfully deleted, because they have non-completed order(s)",%1 client(i) nu a(u) fost sters(i) cu succes, deoarece acestea au comenzi neIncheiate
+Delete Requests,Cereri stergere cont
+Deny Delete Requests,Respinge cereri stergere
+An error has occurred. Please check logs for more details,A avut loc o eroare. Va rugam sa verificati jurnalele pentru mai multe detalii
+%1 email(s) has been sent,%1 e-mail(uri) a(u) fost trimis(e)
+Customers With Consent,Clientii cu acordul semnat
+Customers were successfully added to email queue,Clientii au fost adaugati cu succes la lista
+Customers Without Consent,Clientii fara consimtamant
+Access denied.,Acces interzis.
+Wrong Password. Please recheck it.,Parola gresita. Va rugam sa verificati din nou.
+Your delete account request is awaiting for the review by the administrator.,Cererea ta de stergere se afla In asteptarea examinarii de catre administrator.
+"Thank you, your account delete request was recorded.",Va multumim! Cererea de stergere a contului tau a fost Inregistrata.
+We can not anonymize order,Nu putem anonimiza comanda
+"We can not anonymize your account right now, because you have non-completed order(s):%1",Nu putem sa anonimizam contul chiar acum, deoarece aveti comenzi neIncheiate: 1%
+"We can not anonymize your account right now, because you have active Gift Registry",Nu putem sa anonimizam contul chiar acum, deoarece aveti activ card cadou
+Anonymisation was successful,Anonimazarea a avut loc cu succes
+Thank you for your cooperation. Your consent was recorded.,Multumim. A fost Inregistrat consimtamantul.
+Something went wrong.,Ceva n-a mers bine.
+Unable to save actionLog with ID %1. Error: %2,Nu se poate salva actionLog cu ID %1. Eroare: %2
+Unable to save new actionLog. Error: %1, Nu se poate salva actionLog. Eroare: %1
+ActionLog with specified ID "%1" not found.,ActionLog cu ID-ul specificat "%1" nu a fost gasit.
+Unable to remove actionLog with ID %1. Error: %2,Nu se poate elimina actionLog cu ID-ul %1. Eroare: %2
+Unable to remove actionLog. Error: %1,Nu se poate elimina actionLog. Eroare: %1
+Delete Request Submitted,Cerere de stergere trimisa
+Delete Request Approved,Cerere de stergere aprobata
+Data Anonymised by Customer,Datele de Client anonime
+Automatic Delete,stergere automata
+Customer's Request,Solicitarea clientului
+Pending,In asteptare
+Success,Succes
+Fail,Esuat
+Yes (Recommended),Da (recomandat)
+No,Nu
+Consent with specified ID "%1" not found.,Consimtamantul cu ID-ul specificat „%1“ nu a fost gasit.
+Consent with consent code %1 not found,Consimtamantul cu codul de consimtamant %1 nu a fost gasit
+Unable to remove model without id,Nu se poate elimina modelul fara id
+"Unable to remove consent, message is %1",Nu se poate elimina consimtamant, mesajul este %1
+Unable to save consent with ID %1. Error: %2,Nu se poate salva acordul cu ID-ul %1. Eroare: %2
+Unable to save new consent. Error: %1,Nu se poate salva un nou consimtamant. Eroare: %1
+"Data consistency is broken.
+                    There is no entity by default store for a consent with ID %1","Consistenta datelor este stricata.
+Nu exista nici o entitate de pentru un acord cu ID-ul %1"
+Unable to save deleteRequest with ID %1. Error: %2,Nu se poate salva deleteRequest cu ID %1. Eroare: %2
+Unable to save new deleteRequest. Error: %1,Nu se poate salva deleteRequest. Eroare: %1
+DeleteRequest with specified ID "%1" not found.,DeleteRequest cu ID-ul specificat "%1" nu a fost gasit.
+Unable to remove deleteRequest with ID %1. Error: %2,Nu se poate elimina deleteRequest cu ID-ul %1. Eroare: %2
+Unable to remove deleteRequest. Error: %1,Nu se poate elimina deleteRequest. Eroare: %1
+Disabled,Dezactivat
+Enabled,Activat
+Policy is active,Politica este activa
+Unable to save policy with ID %1. Error: %2,Nu se poate salva politica cu ID-ul %1. Eroare: %2
+Unable to save new policy. Error: %1,Nu se poate salva noua politica. Eroare: %1
+Policy with specified ID "%1" not found.,Politica cu ID-ul specificat „%1“ nu a fost gasit.
+Unable to remove policy with ID %1. Error: %2,Nu se poate elimina politica cu ID %1. Eroare: %2
+Unable to remove policy. Error: %1,Imposibil de eliminat politica. Eroare: %1
+Unable to save consentQueue with ID %1. Error: %2,Nu se poate salva consentQueue cu ID %1. Eroare: %2
+Unable to save new consentQueue. Error: %1,Nu se poate salva noi consentQueue. Eroare: %1
+ConsentQueue with specified ID "%1" not found.,ConsentQueue cu ID-ul specificat "%1" nu a fost gasit.
+Unable to remove consentQueue with ID %1. Error: %2,Nu se poate elimina consentQueue cu ID-ul %1. Eroare: %2
+Unable to remove consentQueue. Error: %1,Nu se poate elimina consentQueue. Eroare: %1
+Unable to save withConsent with ID %1. Error: %2,Nu se poate salva withConsent cu ID %1. Eroare: %2
+Unable to save new withConsent. Error: %1,Nu se poate salva noi withConsent. Eroare: %1
+WithConsent with specified ID "%1" not found.,WithConsent cu ID-ul specificat "%1" nu a fost gasit.
+Unable to remove withConsent with ID %1. Error: %2,Nu se poate elimina withConsent cu ID-ul %1. Eroare: %2
+Unable to remove withConsent. Error: %1,Nu se poate elimina withConsent. Eroare: %1
+GDPR Privacy policy,Politica de confidentialitate GDPR
+CMS Page,Pagina CMS
+All Countries,Toate tarile
+EEA Countries,Tarile SEE
+Specified Countries,Tarile mentionate
+Accept,Accept
+Decline,Declin
+Privacy Checkbox,Checkbox confidentialitate
+Current Password,Parola actuala
+I have read and accept,Am citit si accept
+GDPR,GDPR
+General,General
+Order Statuses,Starea comenzilor
+Email Notifications,Notificari prin email
+Anonymization Notifications,Notificari anonimizare
+Email Sender,E-mail Expeditor
+Email Reply To,Email Raspuns Catre
+Email Template,Sablon e-mail
+Deletion Notifications,Notificari de stergere
+Send Email To,Trimiteti e-mail
+Customer’s Approval Notification,Notificare privind acceptarea catre client
+Customer’s Deny Notification,Notificarea clientului privind respingerea
+Are you sure?,Esti sigur?
+Customer ID,Numar de Inregistrare client
+Customer Name,Numele clientului
+IP Address,Adresa IP
+Date,Data
+Action,Actiune
+Remote IP Address,Adresa IP
+Status,Stare
+Back,Inapoi
+Name,Nume
