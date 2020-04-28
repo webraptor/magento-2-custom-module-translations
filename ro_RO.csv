@@ -140,3 +140,102 @@ Remote IP Address,Adresa IP
 Status,Stare
 Back,Inapoi
 Name,Nume
+Account Holder Name, Numele detinatorului contului
+Account Number, Numar de cont
+Account Type, Tip de cont
+Add a new saved card, Adaugati un card nou
+Add to the subscription price, Adaugati la pretul abonamentului
+Additional Info, Informatii suplimentare
+An error has occurred. Please contact us to complete your order., A avut loc o eroare. Va rugam sa ne contactati pentru a finaliza comanda.
+An error occurred on the server. Please try to place the order again., A aparut o eroare pe server. Va rugam sa Incercati sa plasati comanda din nou.
+Apple Pay, Apple Pay
+Ask the customer, Intrebati clientul
+Available Payment Options, Optiunile de plata disponibile
+Buy now with Apple Pay, Cumpara acum cu Apple Pay
+CVC Check, Cod CVC
+Card **** %1 has been deleted., Cardul **** %1 a fost șters.
+Card **** %1 was added successfully., Cardul **** %1 a fost adaugat cu succes.
+Card Number, Numar card
+Card Payments, Plati cu Cardul
+Card Verification Number, Numarul de verificare al cardului
+Could not retrieve Payment Intent for subscription, Nu au putut fi preluata intentia de plata pentru subscriere
+Could not retrieve payment details. Please contact us., Nu s-a putut prelua detaliile de plata. Va rog sa ne contactati.
+Could not set up customer profile, Nu s-a putut configura profilul de client
+Could not set up customer profile: %1, Nu s-a putut configura profilul de client: 1%
+Enter your card details:, Introduceti detaliile cardului:
+Euro Only, Doar Euro
+Euro and Polish Złoty Only, Doar Euro și Zlotul Polonez
+Expiration Date, Data expirarii
+Invalid IBAN provided., IBAN invalid
+Name on Card, Numele pe card
+No IBAN provided., Nr IBAN furnizat.
+Or use a card below, Sau utilizati un card de mai jos
+Order #%1 could not be placed: %2. Please try placing the order again., Comanda #1 %nu a putut fi plasata: %2. Va rugam sa Incercati sa plasati din nou comanda.
+Order #%1 has been placed successfully, Comanda # 1 %a fost plasat cu succes
+Order by %1 %2 <%3>, Comanda cu %1 %2 <%3>
+Order by %1 %2, Comanda cu %1 %2
+Order place error, Eroare la comanda
+Order placed under manual review by Stripe Radar, Comanda plasata sub revizuire manuala (Stripe Radar)
+Payment Type, Tipul de plata
+Payment authentication succeeded., Autentificarea de plata a reușit.
+Payment failed., Plata esuata.
+Payment succeeded., Plata a reușit.
+Place Order, Plasati comanda
+Please agree to all Terms and Conditions before placing the order., Va rugam sa acceptati toti Termenii și conditiile inainte de a plasa comanda.
+Please select your bank before placing the order, Va rugam sa selectati banca inainte de plasarea comenzii
+Please select your bank, Va rugam sa selectati banca
+Please update your billing address to proceed., Va rugam sa va actualizati adresa de facturare pentru a continua.
+Product Page, Pagina produsului
+Routing Number, Numar de rutare
+SEPA Direct Debit, SEPA Direct Debit
+Save Customer Cards, Salvati carduri client
+Saved Cards, Carduri salvate
+Shipping Cost, Cost de livrare
+Something has gone wrong with your payment. Please contact us., Eroare la plata. Va rog sa ne contactati.
+"Sorry, there are no available payment options"," Ne pare rau, nu exista optiuni de plata disponibile"
+"Sorry, there are no available payment options."," Ne pare rau, nu exista optiuni de plata disponibile."
+"Sorry, this payment method is not available in your country."," Din pacate, aceasta metoda de plata nu este disponibila in tara dumneavoastra."
+"Sorry, we could not complete the checkout process. Please contact us for more help."," Ne pare rau, nu am putut finaliza procesului de plata. Va rugam sa ne contactati pentru mai mult ajutor."
+The payment for this order could not be confirmed: %1., Plata pentru acest ordin nu a putut fi confirmata: 1%.
+The payment was not authorized., Plata nu a fost autorizata.
+The selected currency %1 is not supported for the billing country %2, Moneda selectata %1 nu este acceptata pentru tara de facturare %2
+The source with ID %1 could not be retrieved from Stripe, Sursa cu ID-ul %1 nu au putut fi verificata in Stripe
+The subscription has a trial period but the card requires immediate authorization. Please use a different card., Abonamentul are o perioada de proba dar cardul necesita autorizare imediata. Va rugam sa utilizati un alt card.
+This card cannot be used because it requires a 3D Secure authentication by the customer., Acest card nu poate fi utilizat deoarece necesita autentificare 3D Secure.
+"To complete the order, please pay <b>%1</b> by scanning the QR code below with your mobile device"," Pentru a finaliza comanda, va rugam sa platiti <b> %1 </b> prin scanarea codului QR de mai jos cu dispozitivul mobil"
+Try to re-create the charge with a saved card, Incercati cu un card salvat
+Unknown event type, Tipul de eveniment necunoscut
+Use a new card, Utilizati un card nou
+What is this?, Ce este asta?
+You do not have any saved cards yet., Nu aveti inca niciun card salvate.
+You must first add a full billing address before you can add saved cards., Trebuie sa adaugati mai intai o adresa de facturare completa Inainte de a putea adauga carduri salvate.
+You must first set a billing address before you can use this payment method, Trebuie sa setati mai intai o adresa de facturare inainte de a putea utiliza aceasta metoda de plata
+You must first set a shipping address before you can use this payment method, Trebuie sa setati mai intai o adresa de expediere inainte de a putea utiliza aceasta metoda de plata
+Your Bank, Banca dvs.
+Your IBAN, Contul IBAN
+Your bank account has been successfully verified., Contul dvs. bancar a fost verificat cu succes.
+Your business name, Numele firmei
+Your card details are protected using PCI DSS v3.2 security standards., Detaliile cardului sunt protejate folosind standarde de securitate 3D Secure / PCI DSS v3.2.
+Your card has been declined, Cardul tau a fost refuzat
+"Your order has been canceled. The payment authorization succeeded, however the authorizing provider declined the payment with the message: %1"," Comanda dvs. a fost anulata. Autorizarea de plata a reușit, cu toate acestea, procesatorul a refuzat plata cu mesajul: %1"
+Your order is pending!, Comanda dvs. este in așteptare!
+Your session has expired., Sesiunea dumneavoastra a expirat.
+Zip Check, Verificare cod postal
+ending in, terminat in
+Active,Activ
+Buy,Cumpara
+Cards,Carduri
+Close,Inchide
+Customer,Client
+Disabled,Dezactivat
+Donate,Doneaza
+Enabled,Disponibil
+Error,Eroare
+Payment,Plata
+Refunded,Rambursat
+Save,Salveaza
+Shipping,Livrare
+Title,Titlu
+Unpaid,Neachitat
+exp,exp
+expires,expira
