@@ -2,7 +2,7 @@
   "name": "webraptor/magento-2-custom-module-translations",
   "description": "Custom translations for Magento 2 extensions",
   "type": "magento2-language",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "license": [
     "OSL-3.0",
     "AFL-3.0"
