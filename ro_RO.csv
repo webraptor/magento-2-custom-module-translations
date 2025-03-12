@@ -624,4 +624,6 @@ My Subscriptions, Abonamentele mele
 You do not have any subscriptions yet.,Nu ai abonamente.
 You do not have any saved payment methods.,Nu ai nici o metoda de plata.
 Add a new payment method, Adauga metoda de plata
-Recently ordered, Comandate recent
+Recently Ordered, Comandate Recent
+Used to distinguish users.,Folosit pentru a diferentia userii
+Used to throttle request rate.,Folosit pentru a limita rata requesturilor
