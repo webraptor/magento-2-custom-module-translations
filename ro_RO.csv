@@ -304,11 +304,11 @@ Here you can download a copy of your personal data which we store for your accou
 Download personal data,Descărcați datele personale
 Merge into one file,Îmbinați într-un singur fișier
 Anonymise personal data,Anonimizați datele personale
-"By clicking ‘Agree and Proceed’ you agree that your personal data will be replaced with non-personal anonymous information. When you receive a new login email, your email address and all other personal data will be deleted from the website.","Făcând clic pe „Agree and Proceed”, sunteți de acord ca datele dumneavoastră personale să fie înlocuite cu informații anonime non-personale. Când primiți un nou e-mail de conectare, adresa dvs. de e-mail și toate celelalte date personale vor fi șterse de pe site."
+"By clicking ‘Agree and Proceed’ you agree that your personal data will be replaced with non-personal anonymous information. When you receive a new login email, your email address and all other personal data will be deleted from the website.","Făcând clic pe „De acord și continua”, sunteți de acord ca datele dumneavoastră personale să fie înlocuite cu informații anonime non-personale. Când primiți un nou e-mail de conectare, adresa dvs. de e-mail și toate celelalte date personale vor fi șterse de pe site."
 I agree and I want to proceed,Sunt de acord și vreau să continui
 Agree and Proceed,De acord și continua
 Delete account,Ștergeți contul
-"By clicking ‘Agree and Submit request‘ button you agree that all your orders, personal data and other information associated with your account or purchases will be lost. You will not be able to regain access to your account after we approve your deletion request.","Făcând clic pe butonul „Sunt de acord și trimiteți cererea”, sunteți de acord că toate comenzile, datele personale și alte informații asociate contului sau achizițiilor dumneavoastră se vor pierde. Nu veți putea recâștiga accesul la contul dvs. după ce vom aproba cererea dvs. de ștergere."
+"By clicking ‘Agree and Submit request‘ button you agree that all your orders, personal data and other information associated with your account or purchases will be lost. You will not be able to regain access to your account after we approve your deletion request.","Făcând clic pe butonul „De acord și trimiteți cererea”, sunteți de acord că toate comenzile, datele personale și alte informații asociate contului sau achizițiilor dumneavoastră se vor pierde. Nu veți putea recâștiga accesul la contul dvs. după ce vom aproba cererea dvs. de ștergere."
 I understand and I want to delete my account,Înțeleg și vreau să-mi șterg contul
 Agree and Submit request,De acord și trimiteți cererea
 Given Consent,Consimțământul dat
@@ -603,3 +603,19 @@ Date Submitted,Data trimiterii
 Initiator of Deletion,Inițiatorul ștergerii
 Completed Orders Qty,Comenzi finalizate Cant
 Pending Orders Qty,Comenzi în așteptare Cant
+No token found.,Nu a fost găsit niciun simbol.
+Wrong request.,Cerere greșită.
+Deletion failure. Please try again.,Eroare la ștergere. Vă rugăm să încercați din nou.
+Stored Payment Method was successfully removed,Metoda de plată stocată a fost eliminată cu succes
+Stored Payment Methods,Metode de plată stocate
+No available payment tokens for specified order payment.,Nu există jetoane de plată disponibile pentru plata comenzii specificate.
+Card Number,Numărul de card
+Expiration Date,Data expirării
+Type,Tip
+You have no stored payment methods.,Nu aveți nicio metodă de plată stocată.
+ending,final
+Actions,Acțiuni
+Delete,Şterge
+PayPal Account,Cont PayPal
+Cancel,Anula
+Are you sure you want to delete this card: %1?,Sigur doriți să ștergeți acest card: %1?
