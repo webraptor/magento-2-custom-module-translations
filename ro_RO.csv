@@ -283,4 +283,323 @@ Proceed to Checkout, Mergeti la Checkout
 "Cookie Settings","Setări cookie"
 "Allow all","Permiteți totul"
 "Save","Salva"
-"Please select and accept your Cookies Group","Vă rugăm să selectați și să acceptați grupul dvs. de cookie-uri
+"Please select and accept your Cookies Group","Vă rugăm să selectați și să acceptați grupul dvs. de cookie-uri"
+Are you sure you want to do this?,Ești sigur că vrei să faci asta?
+Delete Consent,Șterge consimțământul
+Personal Data,Date personale
+Anonymise,Anonimizați
+Are you sure you want to anonymise personal data?,Sigur doriți să anonimizați datele personale?
+Download,Descărcați
+Delete,Şterge
+"Are you sure you want to delete personal data? (Personal data in previously created orders, invoices, shipments and credit memos will be anonymised then.)","Sigur doriți să ștergeți datele personale? (Datele personale din comenzile, facturile, expedierile și notițele de credit create anterior vor fi anonimizate atunci.)"
+Clone,Clonează
+Save and Continue Edit,Salvați și continuați editarea
+Save,Salva
+Send,Trimite
+We would like to inform you that our Privacy Policy has been amended.,Dorim să vă informăm că Politica noastră de confidențialitate a fost modificată.
+"Please, read and accept the new terms.",Vă rugăm să citiți și să acceptați noile condiții.
+Policies text,Textul politicilor
+Here you can download a copy of your personal data which we store for your order in CSV format.,Aici puteți descărca o copie a datelor dumneavoastră personale pe care le stocăm pentru comanda dumneavoastră în format CSV.
+Here you can download a copy of your personal data which we store for your account in CSV format.,Aici puteți descărca o copie a datelor dumneavoastră personale pe care le stocăm pentru contul dumneavoastră în format CSV.
+Download personal data,Descărcați datele personale
+Merge into one file,Îmbinați într-un singur fișier
+Anonymise personal data,Anonimizați datele personale
+"By clicking ‘Agree and Proceed’ you agree that your personal data will be replaced with non-personal anonymous information. When you receive a new login email, your email address and all other personal data will be deleted from the website.","Făcând clic pe „Agree and Proceed”, sunteți de acord ca datele dumneavoastră personale să fie înlocuite cu informații anonime non-personale. Când primiți un nou e-mail de conectare, adresa dvs. de e-mail și toate celelalte date personale vor fi șterse de pe site."
+I agree and I want to proceed,Sunt de acord și vreau să continui
+Agree and Proceed,De acord și continua
+Delete account,Ștergeți contul
+"By clicking ‘Agree and Submit request‘ button you agree that all your orders, personal data and other information associated with your account or purchases will be lost. You will not be able to regain access to your account after we approve your deletion request.","Făcând clic pe butonul „Sunt de acord și trimiteți cererea”, sunteți de acord că toate comenzile, datele personale și alte informații asociate contului sau achizițiilor dumneavoastră se vor pierde. Nu veți putea recâștiga accesul la contul dvs. după ce vom aproba cererea dvs. de ștergere."
+I understand and I want to delete my account,Înțeleg și vreau să-mi șterg contul
+Agree and Submit request,De acord și trimiteți cererea
+Given Consent,Consimțământul dat
+Here you can opt in or opt out from consents that were previously given.,Aici puteți să vă înscrieți sau să renunțați la consimțământurile care au fost date anterior.
+Send Email,Trimite e-mail
+Action Log,Jurnal de acțiuni
+Action logs was successfully removed.,Jurnalele de acțiuni au fost eliminate cu succes.
+Consent Log,Jurnal de consimțământ
+Consent logs was successfully removed.,Jurnalele de consimțământ au fost eliminate cu succes.
+Customers Consents Email Queue,Consimțământul clienților Coada de e-mail
+%1 customer(s) has been successfully added to email queue,%1 client(i) a fost adăugat cu succes la coada de e-mail
+You have successfully deleted the consent,Ați șters cu succes consimțământul
+We can't delete item right now. Please review the log and try again.,Nu putem șterge elementul acum. Consultați jurnalul și încercați din nou.
+Edit Consent,Editați consimțământul
+This consent no longer exists...,Acest consimțământ nu mai există...
+New Consent,Consimțământ nou
+Consent Checkboxes,Casete de selectare pentru consimțământ
+An error has occurred,A apărut o eroare
+You saved the consent.,Ai salvat consimțământul.
+Consent with code %1 already exists.,Consimțământul cu codul %1 există deja.
+Cookie Policy Consents,Consimțământul politicii cookie
+"Personal data cannot be anonymised right now, because the customer has non-completed order(s): %1","Datele personale nu pot fi anonimizate acum, deoarece clientul are comenzi nefinalizate: %1"
+"Personal data cannot be anonymised right now, because the customer has active Gift Registry.","Datele personale nu pot fi anonimizate în acest moment, deoarece clientul are activ Registrul de cadouri."
+An error has occurred: %1,A apărut o eroare: %1
+"Personal data cannot be deleted right now, because the customer has non-completed order(s): %1","Datele personale nu pot fi șterse acum, deoarece clientul are comenzi nefinalizate: %1"
+"Personal data cannot be deleted right now, because the customer has active Gift Registry.","Datele personale nu pot fi șterse în acest moment, deoarece clientul are un Registrul de cadouri activ."
+It is impossible to anonymize an order. Order Increment Id is not defined,Este imposibil să anonimizați o comandă. Id-ul de creștere a comenzii nu este definit
+Order %1 is successfully anonymised.,Comanda %1 a fost anonimizată cu succes.
+It is impossible to anonymize an order with this status type.,Este imposibil să anonimizați o comandă cu acest tip de stare.
+This policy no longer exists.,Această politică nu mai există.
+You deleted the policy.,Ai șters politica.
+New Privacy Policy,Noua Politică de confidențialitate
+Edit Privacy Policy %1,Editați politica de confidențialitate %1
+Privacy Policy,Politica de confidențialitate
+Please correct the data sent.,Vă rugăm să corectați datele trimise.
+Something went wrong while saving the question.,A apărut o eroare la salvarea întrebării.
+%1 policies(s) has been successfully deleted,Politicile %1 au fost șterse cu succes
+Privacy policy with the same version already exists.,Politica de confidențialitate cu aceeași versiune există deja.
+You saved the item.,Ai salvat articolul.
+%1 customer(s) has been successfully deleted,%1 client(i) a fost șters cu succes
+"%1 customer(s) has not been successfully deleted, because they have non-completed order(s)","%1 client(i) nu a fost șters cu succes, deoarece au comenzi nefinalizate"
+Delete Requests,Ștergeți solicitările
+Deny Delete Requests,Respinge cererile de ștergere
+An error has occurred. Please check logs for more details,A apărut o eroare. Vă rugăm să verificați jurnalele pentru mai multe detalii
+%1 email(s) has been sent,%1 e-mail(e) au fost trimise
+Invalid Form Key. Please refresh the page.,Cheie de formular nevalidă. Vă rugăm să reîmprospătați pagina.
+Access denied.,Acces interzis.
+Wrong Password. Please recheck it.,Parolă greșită. Vă rugăm să verificați din nou.
+Your delete account request is awaiting for the review by the administrator.,Solicitarea dvs. de ștergere a contului așteaptă examinarea de către administrator.
+"We can not process your account deletion request right now, because you have active Gift Registry.","Nu vă putem procesa solicitarea de ștergere a contului în acest moment, deoarece aveți Registrul de cadouri activ."
+"Thank you, your account delete request was recorded.","Vă mulțumim, solicitarea dvs. de ștergere a contului a fost înregistrată."
+Something went wrong.,Ceva a mers prost.
+"We can not anonymize your account right now, because you have non-completed order(s):%1","Nu vă putem anonimiza contul în acest moment, deoarece aveți comenzi nefinalizate:%1"
+"We can not anonymize your account right now, because you have active Gift Registry","Nu vă putem anonimiza contul în acest moment, deoarece aveți un registru de cadouri activ"
+We can not anonymize order,Nu putem anonimiza comanda
+Anonymization was successful,Anonimizarea a avut succes
+Thank you for your cooperation. Your consent was recorded.,Vă mulțumim pentru cooperare. Consimțământul dvs. a fost înregistrat.
+Changes has been saved.,Modificările au fost salvate.
+Invalid Policy version.,Versiune nevalidă a politicii.
+Invalid Policy action.,Acțiune de politică nevalidă.
+Privacy policy accepted.,Politica de confidențialitate acceptată.
+Unable to save actionLog with ID %1. Error: %2,Imposibil de salvat ActionLog cu ID %1. Eroare: %2
+Unable to save new actionLog. Error: %1,Nu se poate salva noul Jurnal de acțiuni. Eroare: %1
+"ActionLog with specified ID ""%1"" not found.",ActionLog cu ID-ul specificat „%1” nu a fost găsit.
+Unable to remove actionLog with ID %1. Error: %2,Imposibil de eliminat actionLog cu ID %1. Eroare: %2
+Unable to remove actionLog. Error: %1,Imposibil de eliminat actionLog. Eroare: %1
+"The ""%1"" anonymization type isn't defined. Verify the type and try again.",Tipul de anonimizare „%1” nu este definit. Verificați tipul și încercați din nou.
+Delete Request Submitted,Solicitare de ștergere trimisă
+Delete Request Approved,Solicitarea de ștergere a fost aprobată
+Delete Request Denied,Solicitare de ștergere refuzată
+Data Anonymised by Customer,Date anonimizate de către client
+Data Anonymised by Admin,Date anonimizate de administrator
+Data Anonymised by Guest,Date anonimizate de către invitat
+Failed Data Anonymization by Guest,Anonimizarea datelor eșuată de către invitat
+Failed Data Anonymization by Customer,Anonimizarea datelor eșuate de către client
+Personal Data Deleted by Admin,Date personale șterse de administrator
+Personal Data Downloaded by Customer,Date personale descărcate de client
+Personal Data Downloaded by Guest,Date personale descărcate de oaspete
+Automatic Delete,Ștergere automată
+Customer's Request,Solicitarea clientului
+Pending,În așteptare
+Success,Succes
+Fail,Eșuează
+Allow,Permite
+Don't Allow for Statuses,Nu permiteți stări
+Don't Delete,Nu șterge
+Yes (Recommended),Da (recomandat)
+No,Nu
+[STORE VIEW],[STORE VIEW]
+"Consent with specified ID ""%1"" not found.",Consimțământul cu ID-ul specificat „%1” nu a fost găsit.
+Consent with consent code %1 not found,Consimțământul cu codul de consimțământ %1 nu a fost găsit
+Unable to remove model without id,Imposibil de eliminat modelul fără ID
+"Unable to remove consent, message is %1","Nu se poate elimina consimțământul, mesajul este %1"
+Unable to save consent with ID %1. Error: %2,Nu se poate salva consimțământul cu ID %1. Eroare: %2
+Unable to save new consent. Error: %1,Nu se poate salva noul consimțământ. Eroare: %1
+Data consistency is broken. There is no entity by default store for a consent with ID %1,Consecvența datelor este deteriorată. Nu există o entitate implicită pentru un consimțământ cu ID %1
+Unable to save deleteRequest with ID %1. Error: %2,Nu se poate salva cererea de ștergere cu ID %1. Eroare: %2
+Unable to save new deleteRequest. Error: %1,Nu se poate salva o nouă solicitare de ștergere. Eroare: %1
+"DeleteRequest with specified ID ""%1"" not found.",Solicitarea de ștergere cu ID-ul specificat „%1” nu a fost găsită.
+Unable to remove deleteRequest with ID %1. Error: %2,Imposibil de eliminat deleteRequest cu ID %1. Eroare: %2
+Unable to remove deleteRequest. Error: %1,Imposibil de eliminat deleteRequest. Eroare: %1
+Invalid guest customer session,Sesiune client invitat nevalidă
+Invalid order increment ID,ID de increment de comandă nevalid
+Registration,Înregistrare
+Checkout,Verifică
+Contact Us,Contactaţi-ne
+Newsletter Subscription,Abonament la newsletter
+Email,E-mail
+Optional Consent at Account Privacy Settings,Consimțământ opțional la Setările de confidențialitate a contului
+Draft,Proiect
+Disabled,Dezactivat
+Enabled,Activat
+Policy is active,Politica este activă
+Unable to save policy with ID %1. Error: %2,Imposibil de salvat politica cu ID-ul %1. Eroare: %2
+Unable to save new policy. Error: %1,Imposibil de salvat noua politică. Eroare: %1
+"Policy with specified ID ""%1"" not found.",Politica cu ID-ul specificat „%1” nu a fost găsită.
+Unable to remove policy with ID %1. Error: %2,Imposibil de eliminat politica cu ID %1. Eroare: %2
+Unable to remove policy. Error: %1,Imposibil de eliminat politica. Eroare: %1
+Unable to save consentQueue with ID %1. Error: %2,Imposibil de salvat consentQueue cu ID %1. Eroare: %2
+Unable to save new consentQueue. Error: %1,Nu se poate salva noua coadă de consimțământ. Eroare: %1
+"ConsentQueue with specified ID ""%1"" not found.",ConsentQueue cu ID-ul specificat „%1” nu a fost găsit.
+Unable to remove consentQueue with ID %1. Error: %2,Imposibil de eliminat consentQueue cu ID %1. Eroare: %2
+Unable to remove consentQueue. Error: %1,Imposibil de eliminat consentQueue. Eroare: %1
+Unable to save withConsent with ID %1. Error: %2,Nu se poate salva cu Consimțământ cu ID %1. Eroare: %2
+Unable to save new withConsent. Error: %1,Imposibil de salvat nou cu Consimțământ. Eroare: %1
+"WithConsent with specified ID ""%1"" not found.",WithConsent cu ID-ul specificat „%1” nu a fost găsit.
+Unable to remove withConsent with ID %1. Error: %2,Imposibil de eliminat cu Consimțământ cu ID %1. Eroare: %2
+Unable to remove withConsent. Error: %1,Imposibil de eliminat cu Consimțământ. Eroare: %1
+Guest,Oaspete
+Checkbox Location Option Group has empty name,Caseta de selectare Grupul de opțiuni de locație are un nume gol
+Option Source with code %1 not implements OptionSourceInterface,Sursa opțiunii cu codul %1 nu implementează OptionSourceInterface
+name,nume
+Privacy Policy Popup,Politica de confidențialitate Popup
+GDPR Privacy policy,Politica de confidențialitate GDPR
+CMS Page,Pagina CMS
+All Countries,Toate Țările
+EEA Countries,Țările SEE
+Specified Countries,Țări specificate
+Accept,Accepta
+Decline,Declin
+Policy Confirmation Required,Este necesară confirmarea politicii
+Privacy Checkbox,Caseta de selectare a confidențialității
+%1 file extension is not supported,Extensia de fișier %1 nu este acceptată
+Kindly be informed that Active or Disabled Privacy Policy cannot be amended. Please use the CLONE function to create a new Privacy Policy version and amend the text.,Vă rugăm să fiți informat că Politica de confidențialitate activă sau dezactivată nu poate fi modificată. Vă rugăm să utilizați funcția CLONARE pentru a crea o nouă versiune a Politicii de confidențialitate și pentru a modifica textul.
+Current Password,Parola actuală
+Read Privacy Policy,Citiți Politica de confidențialitate
+Read Cookie Policy,Citiți Politica privind cookie-urile
+Close,Aproape
+Dear %customer_name,Stimate %customer_name
+"In response to your recent request, your account was anonymized. Please, notice that all changes couldn't be reverted.","Ca răspuns la cererea dvs. recentă, contul dvs. a fost anonimizat. Vă rugăm să rețineți că toate modificările nu au putut fi anulate."
+To login please use the following anonymized e-mail address: %anonymous_email,Pentru a vă conecta vă rugăm să utilizați următoarea adresă de e-mail anonimizată: %anonymous_email
+Best regards,Salutări
+"This email was sent to you because your account has been deleted due to your recent request. Please, notice that all changes couldn't be reverted.",Acest e-mail v-a fost trimis deoarece contul dvs. a fost șters din cauza solicitării dvs. recente. Vă rugăm să rețineți că toate modificările nu au putut fi anulate.
+Our Privacy Policy has been amended,Politica noastră de confidențialitate a fost modificată
+"We would like to inform you that our Privacy Policy has been amended. Due to the changes related to the EU GDPR (General Data Protection Regulation), we are required to notify you about this update and are required to get your consent to the updated policy.","Dorim să vă informăm că Politica noastră de confidențialitate a fost modificată. Datorită modificărilor legate de GDPR UE (Regulamentul general privind protecția datelor), suntem obligați să vă anunțăm cu privire la această actualizare și trebuie să obținem consimțământul dumneavoastră pentru politica actualizată."
+"There are no major differences, we still take care of all your personal data, we store it securely and use it only for processing your orders and support requests.","Nu există diferențe majore, ne ocupăm în continuare de toate datele dumneavoastră cu caracter personal, le stocăm în siguranță și le folosim doar pentru procesarea comenzilor și solicitărilor dumneavoastră de asistență."
+I have read and accept,Am citit si accept
+Hello,Buna ziua
+You have received a new personal data deletion request from the customer - %customer_name,Ați primit o nouă solicitare de ștergere a datelor personale de la client - %customer_name
+"Please, visit the request deletion grid.",Vă rugăm să vizitați grila de ștergere a solicitărilor.
+Hello %customer_name,Bună ziua %customer_name
+Your delete request was denied at this time due to the following reason: %comment,Solicitarea dvs. de ștergere a fost refuzată în acest moment din următorul motiv: %comment
+Personal Data Protection,Protecția datelor cu caracter personal
+Download Personal Data,Descărcați datele personale
+Amasty Order Data Anonymise,Datele de comandă Amasty Anonimizare
+Amasty Personal Data Protection Settings,Setări de protecție a datelor cu caracter personal Amasty
+General,General
+On the Frontend.,Pe Frontend.
+Display Privacy Policy Popup on First Visit,Afișați o fereastră pop-up cu Politica de confidențialitate la prima vizită
+"When a new customer opens the website, the privacy policy popup will be displayed. When a new version of Privacy Policy is issued, the popup will be displayed to those users who have not accepted the policy yet.","Când un nou client deschide site-ul web, va fi afișată fereastra de politică de confidențialitate. Când este lansată o nouă versiune a Politicii de confidențialitate, o fereastră pop-up va fi afișată acelor utilizatori care nu au acceptat încă politica."
+Country Restrictions,Restricții de țară
+"It is possible to adjust the visibility of Privacy Policy Popup on frontend according to customer location. Enable the Privacy Policy Popup for All Countries, EEA Countries or specific Countries selected in the list below.","Este posibil să ajustați vizibilitatea pop-upului Politicii de confidențialitate pe front-end în funcție de locația clientului. Activați fereastra pop-up Politică de confidențialitate pentru toate țările, țările SEE sau anumite țări selectate în lista de mai jos."
+Display for Specific Countries,Afișare pentru anumite țări
+Log Guest Consent,Înregistrați consimțământul oaspeților
+"If enabled, guest users who give the consent will be logged and displayed in Consent Log.","Dacă este activat, utilizatorii invitați care își dau consimțământul vor fi înregistrați și afișați în Jurnalul de consimțământ."
+Log Auto-Cleaning,Curățare automată a jurnalului
+The records that were saved for a longer period than the specified below will be automatically removed from Consent and Action Logs.,Înregistrările care au fost salvate pentru o perioadă mai lungă decât cea specificată mai jos vor fi șterse automat din jurnalele de consimțământ și acțiuni.
+Log Auto-Cleaning Period (Days),Perioada de curățare automată a jurnalului (zile)
+The records that were saved for a longer period than you specified in the field will be automatically removed from Consent and Action Logs.,Înregistrările care au fost salvate pentru o perioadă mai lungă decât ați specificat în câmp vor fi șterse automat din jurnalele de consimțământ și acțiuni.
+Customer’s Account Privacy Settings,Setările de confidențialitate ale contului clientului
+Privacy Settings Tab Name,Numele filei Setări de confidențialitate
+The setting allows you to set a custom name for the privacy settings navigation link in the customer’s account.,Setarea vă permite să setați un nume personalizat pentru linkul de navigare al setărilor de confidențialitate din contul clientului.
+Enable Policies Text Section,Activați secțiunea Text Politici
+Allow Downloading Personal Data,Permite descărcarea datelor personale
+"If enabled, customers will be able to download their personal data.","Dacă este activat, clienții își vor putea descărca datele personale."
+Allow Anonymizing Personal Data,Permite anonimizarea datelor personale
+"If enabled, customers will be able to anonymize their personal data.","Dacă este activat, clienții își vor putea anonimiza datele personale."
+Allow Deleting Account,Permite ștergerea contului
+"If enabled, customers will be able to delete their accounts.","Dacă este activat, clienții își vor putea șterge conturile."
+Allow Opting Out from Given Consent,Permiteți renunțarea de la consimțământul dat
+"If enabled, the section Given Consent will be added to customer account for customers to be able to opt in or opt out from given consent. The checkboxes with the enabled option ‘Hide the Checkbox after User Gave the Consent’ will be displayed under the Given Consent section. When the option 'Hide the Checkbox after User Gave the Consent’ is disabled for checkboxes, they will not be added to the Given Consent section since the system will always display these checkboxes on selected forms even if the consent was given.","Dacă este activată, secțiunea Consimțământul dat va fi adăugată în contul de client pentru ca clienții să poată să participe sau să renunțe la consimțământul dat. Casetele de selectare cu opțiunea activată „Ascunde caseta de selectare după ce utilizatorul a dat consimțământul” vor fi afișate în secțiunea Consimțământ dat. Când opțiunea „Ascunde caseta de selectare după ce utilizatorul a dat consimțământul” este dezactivată pentru casete de selectare, acestea nu vor fi adăugate la secțiunea Consimțământ dat, deoarece sistemul va afișa întotdeauna aceste casete de selectare pe formularele selectate, chiar dacă a fost dat consimțământul."
+Download Fields with Filled Values Only,Descărcați numai câmpurile cu valori completate
+"If enabled, the fields with empty values will be skipped in downloaded files.","Dacă este activată, câmpurile cu valori goale vor fi omise în fișierele descărcate."
+Exclude Fields from Download,Excludeți câmpuri din descărcare
+Each field name from a new line.,Numele fiecărui câmp dintr-o linie nouă.
+Display Data Protection Officer Information,Afișați informațiile responsabilului cu protecția datelor
+"If enabled, customers will be able to get information about your Data Protection Officer added to a separate section at their accounts.","Dacă este activată, clienții vor putea obține informații despre responsabilul cu protecția datelor adăugate într-o secțiune separată din conturile lor."
+Section Name,Numele secțiunii
+Data Protection Officer Email,E-mailul responsabilului cu protecția datelor
+You can set only one email address in this field.,Puteți seta o singură adresă de e-mail în acest câmp.
+Email address of the Data Protection Officer or department within your company.,Adresa de e-mail a responsabilului cu protecția datelor sau a departamentului din cadrul companiei dumneavoastră.
+Data Protection Officer information,Informații despre responsabilul cu protecția datelor
+Personal Data Deletion and Anonymization,Ștergerea datelor cu caracter personal și anonimizarea
+Automatic Personal Data Deletion,Ștergerea automată a datelor cu caracter personal
+Delete Personal Data of Abandoned Customer’s Accounts,Ștergeți datele personale ale conturilor clientului abandonat
+The extension will scan customers and their orders. If a customer’s last order was made earlier than the specified number of days the extension will create a deletion request. You will be able to find it on the ‘Delete Requests’ grid,"Extensia va scana clienții și comenzile acestora. Dacă ultima comandă a unui client a fost făcută mai devreme decât numărul specificat de zile, extensia va crea o solicitare de ștergere. Îl veți putea găsi în grila „Ștergeți solicitări”."
+Abandoned Customer’s Accounts Automatic Deletion Period (Days),Perioada de ștergere automată a conturilor clientului abandonat (zile)
+The extension will scan customers and their orders. If a customer’s last order was made earlier than the specified number of days the extension will create a deletion request. You will be able to find it on the ‘Delete Requests’ grid.,"Extensia va scana clienții și comenzile acestora. Dacă ultima comandă a unui client a fost făcută mai devreme decât numărul specificat de zile, extensia va crea o solicitare de ștergere. Îl veți putea găsi în grila „Ștergeți solicitări”."
+Prevent Data Deletion of Recent Orders,Preveniți ștergerea datelor comenzilor recente
+Deletion of Personal Data in Recent Documents,Ștergerea datelor cu caracter personal din documentele recente
+"When a customer asks to delete personal data and the request is approved, the extension deletes their account, subscriptions, and the data in orders, invoices, shipments, and credit memos. Given disabled, it could cause problem for a store owner as these should be stored for a specific period of time.<br><br>The feature keeps personal data untouched in orders, invoices, shipments and credit memos for the set period after deleting customer’s account. When the period expires the personal data in the documents will be automatically deleted.","Când un client solicită ștergerea datelor personale și cererea este aprobată, extensia îi șterge contul, abonamentele și datele din comenzi, facturi, expedieri și notițe de credit. Dacă este dezactivată, ar putea cauza probleme pentru proprietarul unui magazin, deoarece acestea ar trebui stocate pentru o anumită perioadă de timp.<br><br>Funcția păstrează datele personale neatinse în comenzi, facturi, expedieri și notificări de credit pentru perioada stabilită după ștergerea contului clientului. La expirarea perioadei datele personale din documente vor fi șterse automat."
+Prevent Data Deletion Period (Days),Preveniți perioada de ștergere a datelor (zile)
+"After a customer deletes the account, personal data will stay untouched in orders, invoices, shipments and credit memos for the set period. When the set time expires the personal data will be automatically deleted.","După ce un client șterge contul, datele personale vor rămâne neatinse în comenzi, facturi, expedieri și note de credit pentru perioada stabilită. La expirarea timpului stabilit, datele personale vor fi șterse automat."
+Anonymization/Deletion of Personal Data for Orders in Specified Status(es),Anonimizarea/Ștergerea datelor cu caracter personal pentru comenzi în stare(e) specificată(e)
+Order Statuses,Starea comenzilor
+Forbid Customer's Personal Data Anonymization and Deletion if They Have Gift Registries,Interziceți anonimizarea și ștergerea datelor cu caracter personal ale clienților dacă au registre de cadouri
+"If enabled, a customer's personal data won't be allowed for anonymization or deletion by a customer or admin if the customer has an active gift registry.","Dacă este activată, datele personale ale unui client nu vor fi permise pentru anonimizare sau ștergere de către un client sau un administrator dacă clientul are un registru de cadouri activ."
+Email Notifications,Notificări prin e-mail
+Anonymization Notifications,Notificări de anonimizare
+Email Sender,Expeditorul de e-mail
+"Customers are able to anonymize their personal data. After anonymizing, they will get an email with the new credentials for login their account.","Clienții își pot anonimiza datele personale. După anonimizare, vor primi un e-mail cu noile acreditări pentru a se conecta la contul lor."
+Email Reply To,Răspuns prin e-mail la
+Specify the email address for customer's replies or leave blank to use the sender address.,Specificați adresa de e-mail pentru răspunsurile clientului sau lăsați necompletat pentru a utiliza adresa expeditorului.
+Email Template,Șablon de e-mail
+Deletion Notifications,Notificări de ștergere
+Manager Notification,Notificarea managerului
+Notify Manager on Deletion Request,Notificați managerul cu privire la cererea de ștergere
+Your Magento store admin user will get an email when a customer submits a new request for deleting their account.,Utilizatorul dvs. de administrator al magazinului Magento va primi un e-mail atunci când un client trimite o nouă solicitare pentru ștergerea contului.
+Send Email To,Trimite e-mail la
+"This will be used in the ""To"" field. Several emails should be written on a separate line.",Acesta va fi folosit în câmpul „Către”. Mai multe e-mailuri ar trebui scrise pe o linie separată.
+Customer’s Approval Notification,Notificarea de aprobare a clientului
+Customer’s Deny Notification,Notificarea de respingere a clientului
+Privacy Policy Changes Notifications,Notificări privind modificările politicii de confidențialitate
+After changing the Privacy Policy your customers will get an email with a new version of the Privacy Policy.,"După modificarea Politicii de confidențialitate, clienții tăi vor primi un e-mail cu o nouă versiune a Politicii de confidențialitate."
+Default Magento Forms,Formulare Magento implicite
+Amasty Extension Forms,Formulare de extensie Amasty
+Are you sure?,esti sigur?
+Customer ID,ID client
+Customer Name,Nume client
+IP Address,Adresa IP
+Date,Data
+Action,Acţiune
+Comment,Comentariu
+Checkbox Location,Caseta de selectare Locație
+Remote IP Address,Adresă IP de la distanță
+Checkbox Code,Cod casetă de selectare
+Policy Version,Versiunea politicii
+Website,Site-ul web
+Resend,Retrimiteți
+Customer Email,E-mailul clientului
+Status,Stare
+Edit Checkbox,Caseta de selectare Editare
+Back,Spate
+Save Checkbox,Caseta de selectare Salvare
+Checkbox Name,Nume casetă de selectare
+Confirmation Required,Confirmare necesară
+"If enabled, a customer will have to give the consent to submit an action.","Dacă este activată, un client va trebui să dea consimțământul pentru a trimite o acțiune."
+Hide the Checkbox after User Gave the Consent,Ascundeți caseta de selectare după ce utilizatorul și-a dat consimțământul
+"According to the rules of the GDPR, we recommend you leave this setting enabled.","Conform regulilor GDPR, vă recomandăm să lăsați această setare activată."
+"If enabled, the system will always log consents to the checkbox. Moreover, the checkbox will be also added to customer account under the section 'Given Consent' to opt in or opt out from consent.","Dacă este activat, sistemul va înregistra întotdeauna consimțământul în caseta de selectare. În plus, caseta de selectare va fi adăugată și în contul de client în secțiunea „Consimțământul dat” pentru a vă înscrie sau a renunța la consimțământ."
+Log the Consent,Înregistrați Consimțământul
+"In this way, the company will be able to save all consents received, maintain a register of them and process user requests when they withdraw their consent.","În acest fel, compania va putea să salveze toate consimțământurile primite, să mențină un registru al acestora și să proceseze cererile utilizatorilor atunci când își retrag consimțământul."
+Checkbox Position,Caseta de selectare Poziție
+The feature helps to set the order of several checkboxes in case they are displayed in one place. 0 is the highest priority.,Caracteristica ajută la setarea ordinii mai multor casete de selectare în cazul în care acestea sunt afișate într-un singur loc. 0 este cea mai mare prioritate.
+Checkbox Text,Caseta de selectare Text
+"You can use the <a> tag in the text and also the {link} variable to insert the privacy policy link into the checkbox text. Example: I have read and accept the <a href=""{link}"">privacy policy</a>","Puteți utiliza eticheta <a> din text și, de asemenea, variabila {link} pentru a insera linkul la politica de confidențialitate în textul casetei de selectare. Exemplu: am citit și accept <a href=""{link}"">politica de confidențialitate</a>"
+Consent Link Type,Tip link de consimțământ
+Countries Restrictment,Restricții de țări
+New Checkbox,Casetă de selectare nouă
+Delete checkboxes,Ștergeți casetele de selectare
+Are you sure you want to delete selected checkboxes?,Sigur doriți să ștergeți casetele de selectare selectate?
+ID,ID
+Name,Nume
+Enable,Permite
+Is Required,Este necesară
+Log The Consent,Înregistrați Consimțământul
+Edit,Edita
+Version,Versiune
+Policy,Politică
+Add New Policy,Adăugați o nouă politică
+Delete policies,Ștergeți politicile
+Are you sure you want to delete selected policies?,Sigur doriți să ștergeți politicile selectate?
+Id,Id
+Date Created,Data Crearii
+Version Number,Numărul versiunii
+Last Edited,Ultima editare
+Last Edited By,Ultima editare de
+Approve Delete Request(s),Aprobați solicitările de ștergere
+Are you sure you want to approve selected requests?,Sigur doriți să aprobați cererile selectate?
+Deny Delete Request(s),Refuzați solicitările de ștergere
+Date Submitted,Data trimiterii
+Initiator of Deletion,Inițiatorul ștergerii
+Completed Orders Qty,Comenzi finalizate Cant
+Pending Orders Qty,Comenzi în așteptare Cant
